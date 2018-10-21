@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+http://nishantsalhotra.netlify.com/* https://www.nishantsalhotra.com/:splat 302!
+https://nishantsalhotra.netlify.com/* https://www.nishantsalhotra.com/:splat 302!
